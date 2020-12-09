@@ -2,17 +2,17 @@
 The Unix60 is a budget FR4 keyboard designed to make a HHKB-style layout available to everyone with as few compromises as possible.
 
 
-![Image of Unix60 Top](Pictures/Top.jpg)
+![Image of Unix60 Top](Pictures/Top.JPG)
 
-![Image of Unix60 Back](Pictures/Back.jpg)
+![Image of Unix60 Back](Pictures/Back.JPG)
 
-![Image of Unix60 Decal](Pictures/Decal.jpg)
+![Image of Unix60 Decal](Pictures/Decal.JPG)
 
-![Image of Unix60 Plate](Pictures/Plate.jpg)
+![Image of Unix60 Plate](Pictures/Plate.JPG)
 
-![Image of Unix60 PCB](Pictures/PCB.jpg)
+![Image of Unix60 PCB](Pictures/PCB.JPG)
 
-![Image of Unix60 Case](Pictures/Case.jpg)
+![Image of Unix60 Case](Pictures/Case.JPG)
 
 If you have any questions or need help, please join the FR4 Discord: https://discord.gg/z7mpQX5YJQ
 
