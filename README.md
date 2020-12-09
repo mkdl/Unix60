@@ -3,11 +3,17 @@ The Unix60 is a budget FR4 keyboard designed to make a HHKB-style layout availab
 
 
 ![Image of Unix60 Top](Pictures/Top.jpg)
+
 ![Image of Unix60 Back](Pictures/Back.jpg)
+
 ![Image of Unix60 Decal](Pictures/Decal.jpg)
+
 ![Image of Unix60 Plate](Pictures/Plate.jpg)
+
 ![Image of Unix60 PCB](Pictures/PCB.jpg)
+
 ![Image of Unix60 Case](Pictures/Case.jpg)
+
 If you have any questions or need help, please join the FR4 Discord: https://discord.gg/z7mpQX5YJQ
 
 ### Disclaimer: You must follow this guide in the order it is written. Assembling stuff in the wrong order (specifically your Pro Micro or Elite C and its headers) will likely result in you having to desolder components and significantly increase the amount of time it takes to assemble. I am not responsible for boards damaged during assembly. I highly recommend you read through the entire guide before starting assembly.
