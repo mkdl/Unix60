@@ -40,7 +40,7 @@ If you have any questions or need help, please join the FR4 Discord: https://dis
 ![Image of soldered headers](Pictures/10.jpg)
 ### 11. Once you have verified that all your diodes, switches, and Pro Micro or Elite C pin headers are soldered properly, you can now solder your Pro Micro or Elite C onto the pin headers:
 ![Image of soldered Pro Micro](Pictures/11.jpg)
-### 12. Attach standoffs to the bottom of the plate using screws from the other side
+### 12. Attach standoffs to the bottom of the plate using screws from the other side, you may need to cut of the long pins on your controller board if the bottom plate wont fit on.
 ![Image of soldered headers](Pictures/12.jpg)
 ### 13. Screw on the bottom plate
 # Flashing instructions for Linux:
@@ -55,5 +55,5 @@ If you have any questions or need help, please join the FR4 Discord: https://dis
 ### 1. Plug your Pro Micro or Elite C in
 ### 2. Open up the [QMK configurator](https://config.qmk.fm/#/fr4/unix60/LAYOUT_all) and create your desired layout
 ### 3. Click "compile" in the upper right, and once it's done, download the .hex by clicking "firmware"
-### 4. Open up QMK toolbox and load your downloaded .hex
-### 5. Click "flash" and follow any additional instructions
+### 4. Open up [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases) and load your downloaded .hex
+### 5. Click "flash" and follow any additional instructions - you may need to click reset for QMK Toolbox to figure out there is a flashable device.
